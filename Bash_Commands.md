@@ -30,7 +30,6 @@ a = show processes for all users
 u = display the process’s user/owner
 x = also show processes not attached to a terminal
 
-## >> List all processes <<
 ### List by  User
 ```
 $ ps -u username
@@ -44,7 +43,6 @@ $ top -U username
 $ pgrep -u username
 ```
 
-## >> List Processes <<
 ### List by Name
 -Used **aux**
 ```
@@ -174,6 +172,14 @@ tar -cvzf filename.tar.gz /path/to/directory
 ```
 $ tar -xvf filename.tar.gz /path/to/dir
 ```
+
+### gzip Command
+```
+gzip [options] [file...]
+```
+`[-d ]`Decompress a compressed file.
+`[-k]` Retain the original files.
+
 
 ##  List installed packages
 
