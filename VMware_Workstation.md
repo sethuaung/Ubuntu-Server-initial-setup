@@ -35,10 +35,10 @@ YY19A-6TX94-H88KQ-4NNXG-XAUF6
 ```
 ## Download VMware Workstation Player/Pro
 
-[MiniTools](https://www.minitool.com/news/vmware-workstation-player-pro-download.html)
-[vmware.com](https://www.vmware.com/products/workstation-player.html)
-[Workstation/Fusion Pro (Windows, macOS)](https://archive.org/download/vmwareworkstationarchive)
-[VMware ESXi 7](https://archive.org/download/vmware-esxi-7)
-[Old Version](https://archive.org/download/vmwareworkstation_olderver)
-[Fusion Versions (3 - 8) Mac OS X](https://archive.org/download/VMwareFusionVersions)
-[Fusion Pro 11.5 - Mac](https://archive.org/download/vmware-fusion-11.5.0-14634996)
+ 1. [MiniTools](https://www.minitool.com/news/vmware-workstation-player-pro-download.html)
+ 2. [vmware.com](https://www.vmware.com/products/workstation-player.html
+ 3. [Workstation/Fusion Pro_Windows_macOS](https://archive.org/download/vmwareworkstationarchive)
+ 4. [VMware ESXi 7](https://archive.org/download/vmware-esxi-7)
+ 5. [OldVersion](https://archive.org/download/vmwareworkstation_olderver)
+ 6. [Fusion Versions (3 - 8) Mac OSX](https://archive.org/download/VMwareFusionVersions) 
+ 7. [Fusion Pro11.5 - Mac](https://archive.org/download/vmware-fusion-11.5.0-14634996)
